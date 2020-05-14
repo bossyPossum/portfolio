@@ -280,7 +280,7 @@ textarea.form-control {
 }
 
 .pfblock-subtitle {
-	font-family: Raleway, "Times New Roman", Times, sans-serif;
+	font-family: Raleway, sans-serif;
 	font-style: normal;
 	font-size: 18px;
 }
@@ -390,7 +390,7 @@ textarea.form-control {
 }
 
 .start {
-	font-family: Raleway, "Times New Roman", Times, sans-serif;
+	font-family: Raleway, sans-serif;
 	font-size: 16px;
 	font-style: normal;
 	text-transform: none;
