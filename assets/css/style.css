@@ -936,7 +936,7 @@ figure.effect-bubba:hover p {
 
 .cbp-qtprogress {
 	position: absolute;
-	background: #FF5252;
+	/* background: #FF5252; */
 	height: 1px;
 	width: 0%;
 	top: 0;
@@ -947,7 +947,7 @@ figure.effect-bubba:hover p {
 	margin: 0;
 	padding: 0;
     border: 0;
-    font-size: 12px;
+    font-size: 8px;
 }
 
 .cbp-qtrotator blockquote p {
@@ -958,7 +958,7 @@ figure.effect-bubba:hover p {
 }
 
 .cbp-qtrotator blockquote footer {
-	font-size: 1.2em;
+	font-size: 1.4em;
 }
 
 .cbp-qtrotator blockquote footer:before {
